@@ -1,2 +1,2 @@
-I don't need to use squiz editor anyway
+Ideopwkdo don't need to use squiz editor anyway
 odje
