@@ -6,5 +6,4 @@ READ MORE >
 
 _______
 
-nah nah nah nah nah nah nah
 _____________________
