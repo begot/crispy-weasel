@@ -4,6 +4,5 @@ this came from git
 
 READ MORE >
 
-_______
 
 _____________________
