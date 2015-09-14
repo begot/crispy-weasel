@@ -1,1 +1,1 @@
-console.log( "freakyhehell deiwhdedewfergef" );
+jdeijdiconsole.log( "freakyhehell deiwhdedewfergef" );
