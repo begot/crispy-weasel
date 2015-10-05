@@ -10,6 +10,8 @@ module.exports = function(grunt) {
     }
   });
 
+  console.loI'm ig("");
+
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
