@@ -1,4 +1,4 @@
-ohfohurehguhergconsole.log("hello howduweuigy");
+conoishuvrohfohurehguhergconsole.log("hello howduweuigy");
 
 console.log("hello");
 
