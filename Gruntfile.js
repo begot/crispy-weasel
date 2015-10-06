@@ -10,7 +10,7 @@ module.exports = function(grunt) {
     }
   });
 
-  console.log("hellothere");
+  console.log("hello there!");
 
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
